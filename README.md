@@ -1,2 +1,2 @@
 Hello, my name is Jovan, IT operater.
-I like Python in i want to get better at it.
+I like Python and i want to get better at it.
